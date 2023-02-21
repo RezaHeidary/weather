@@ -21,9 +21,9 @@ set location and check weather
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/92585486/217546417-52a3c2bc-c0eb-4e36-862b-d88cb6462d45.png"align="center" width="200" />
+<img src="https://user-images.githubusercontent.com/92585486/220341636-b43f63de-aead-4454-84ed-8d0f4e8797d1.png"align="center" width="200" />
   &nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/92585486/217546439-def71321-a113-4f73-9b10-d10a12206216.png"align="center" width="200" />
+<img src="https://user-images.githubusercontent.com/92585486/220341644-17d24539-6112-45cc-af8f-1764d35835fe.png"align="center" width="200" />
   &nbsp;&nbsp;&nbsp;
 
 
